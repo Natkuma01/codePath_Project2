@@ -25,11 +25,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough 📺
 
 <div>
-    <a href="https://www.loom.com/share/503341c580564978a539b38d9313d19d">
-      <p>Loom Message - 11 June 2025 - Watch Video</p>
+    <a href="https://www.loom.com/share/3fd8600f40a84280b16234aa680d6d4b">
+      <p>Loom Message - 17 June 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/503341c580564978a539b38d9313d19d">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/503341c580564978a539b38d9313d19d-b9ac4f37cbf596e5-full-play.gif">
+    <a href="https://www.loom.com/share/3fd8600f40a84280b16234aa680d6d4b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3fd8600f40a84280b16234aa680d6d4b-9512e0cb0c6bdfa5-full-play.gif">
     </a>
   </div>
 
